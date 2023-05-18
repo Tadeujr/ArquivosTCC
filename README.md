@@ -2,7 +2,7 @@
 
 Olá a todos,
 
-É com satisfação que apresento o meu Trabalho de Conclusão de Curso (TCC) intitulado "Desenvolvimento de um Chatbot para a Junta Comercial do Estado do Espírito Santo". Gostaria de compartilhar com vocês o repositório do IFES onde meu TCC está disponível: [Repositório do IFES](https://repositorio.ifes.edu.br/handle/123456789/1725).
+É com satisfação que apresento o meu Trabalho de Conclusão de Curso (TCC) intitulado "Desenvolvimento de um Chatbot para a Junta Comercial do Estado do Espírito Santo". Gostaria de compartilhar com vocês o repositório do IFES onde meu TCC está disponível: [Repositório do IFES](https://repositorio.ifes.edu.br/handle/123456789/1725) ou pelo arquivo que disponibilizei aqui no git [TCC GIT](https://github.com/Tadeujr/ArquivosTCC/blob/main/TCC_DESENVOLVIMENTO_CHATBOT_JUNTA_COMERCIAL.pdf).
 
 Neste TCC, meu objetivo foi desenvolver um chatbot para a Junta Comercial do Estado do Espírito Santo, com o propósito de fornecer um atendimento automatizado e eficiente aos usuários da instituição e verificar sua utilização durante o periodo da pandemia.
 
